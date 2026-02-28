@@ -1,0 +1,10 @@
+.env
+*.session
+*.session-journal
+__pycache__/
+*.pyc
+node_modules/
+package-lock.json
+degen_edge_positions.json
+*.log
+.DS_Store

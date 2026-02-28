@@ -1,0 +1,8 @@
+{
+  "name": "degenedge-sniper",
+  "version": "1.0.0",
+  "description": "Fast BSC sniper for DegenEdge token launches",
+  "dependencies": {
+    "ethers": "^6.16.0"
+  }
+}
